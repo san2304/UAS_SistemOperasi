@@ -1,0 +1,26 @@
+-------------------------------------
+        Kartu Hasil Studi              
+      Uniss Kampus 2 Batang          
+-------------------------------------
+
+Nim anda          : 20122063
+Nama lengkap anda : Khoirul Ikhsan
+Kelas anda        : Ti-2a
+Progam Studi anda : Teknik Informatika
+
+-------------------------------------
+No   Mata Kuliah      Nilai  Grade   
+-------------------------------------
+
+1. Bahasa Indonesia  = 89   A
+2. Bahasa Inggris    = 87   A
+3. Pemrograman Dasar = 90   A
+4. Matematika        = 83   AB
+5. Kalkulus 1        = 82   AB
+6. Sistem Operasi    = 89   A
+
+-------------------------------------
+
+Rata-Rata 86               A
+
+-------------------------------------
